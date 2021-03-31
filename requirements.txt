@@ -12,7 +12,7 @@ django-froala-editor==2.7.6.post2
 django-htmlmin==0.10.0
 django-imagekit==4.0.2
 html5lib==1.0.1
-lxml==4.1.1
+lxml==4.6.3
 mock==2.0.0
 pbr==3.1.1
 pilkit==2.0
